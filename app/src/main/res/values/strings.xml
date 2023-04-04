@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="welcome_back">С Возвращением!</string>
+    <string name="login_to_continue">Логин</string>
+    <string name="login_to_continue1">Войдите в систему, чтобы продолжить</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="create_new_account">Создать аккаунт</string>
+    <string name="add_image">Добавить фотографию</string>
+    <string name="Name">Имя</string>
+    <string name="confirm_password">Повторный пароль</string>
+    <string name="sign_up">Создать</string>
+    <string name="sign_in1">Вход</string>
+</resources>
