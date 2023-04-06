@@ -14,11 +14,12 @@ public class SignUpActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding = ActivitySignInBinding.inflate(getLayoutInflater());
-        setContentView(R.layout.activity_sign_up);
+        setContentView(binding.getRoot());
         setListeners();
     }
 
     private void setListeners() {
+
         binding.buttonSignIn.setOnClickListener(v -> onBackPressed());
     }
 }
